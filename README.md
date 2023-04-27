@@ -24,8 +24,8 @@ This project is a starting point for a Flutter application.
 
 ### Installation
 1. Clone the repository: 
-2. Navigate to the project directory: "cd flutter_word_combinator"
-3. Install the required dependencies: "flutter pub get"
+2. Navigate to the project directory: `cd flutter_word_combinator`
+3. Install the required dependencies: `flutter pub get`
 4. Open the project in Visual Studio Code.
 5. Run the app on an emulator or physical device by clicking the "Run" button or executing the `flutter run` command in the terminal.
 
