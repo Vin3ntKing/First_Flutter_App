@@ -19,7 +19,7 @@ Let's see what can we do next with Flutter!!
 
 - Flutter SDK
 - Visual Studio Code (with the Flutter and Dart plugins)
-- Xcode \
+- Xcode 
 
 This project is a starting point for a Flutter application.
 
